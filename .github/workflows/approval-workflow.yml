@@ -1,1 +1,2 @@
 name: Team Greg's approval workflow
+on: pull_request_review
